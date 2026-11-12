@@ -38,11 +38,7 @@ real one.
 | | |
 |---|---|
 | [**Arkeyan Launcher**](https://github.com/mflr0/Arkeyan-Launcher) | The app players install: it builds, starts and updates the games, and holds your figures |
-| [**forge**](https://github.com/arkeyan-forge/forge) | The workshop: build scripts, tests and docs, with every part below |
-| [**runtime**](https://github.com/arkeyan-forge/runtime) | What replaces the Xbox 360 |
-| [**arkeyan-builder**](https://github.com/arkeyan-forge/arkeyan-builder) | Builds a game on the player's computer from their disc |
-| [spyros-adventure](https://github.com/arkeyan-forge/spyros-adventure) · [giants](https://github.com/arkeyan-forge/giants) · [swap-force](https://github.com/arkeyan-forge/swap-force) · [trap-team](https://github.com/arkeyan-forge/trap-team) · [superchargers](https://github.com/arkeyan-forge/superchargers) · [imaginators](https://github.com/arkeyan-forge/imaginators) | Each game's configuration, fixes and notes |
-| [xenonrecomp](https://github.com/arkeyan-forge/xenonrecomp) · [xenosrecomp](https://github.com/arkeyan-forge/xenosrecomp) | [hedge-dev](https://github.com/hedge-dev)'s code and shader translators, with our patches |
+| [**forge**](https://github.com/arkeyan-forge/forge) | Everything else: the runtime that replaces the Xbox 360, the builder that makes a game from your disc, each game's port, the tests and the docs. The code and shader translators are [hedge-dev](https://github.com/hedge-dev)'s, with our patches in `patches/` |
 
 ### Get involved
 Bugs, ideas and questions go to the [launcher's issues](https://github.com/mflr0/Arkeyan-Launcher/issues/new/choose) (one place for every game). Pull requests:
